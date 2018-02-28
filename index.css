@@ -1,0 +1,38 @@
+body {
+    background-color:   tan;
+}
+aside {
+    background-color:   cyan;
+}
+.button {
+    border: none; /* Remove borders */
+    color: white; /* Add a text color */
+    padding: 14px 28px; /* Add some padding */
+    cursor: pointer; /* Add a pointer cursor on mouse-over */
+}
+.kick {background-color: limegreen;
+        color: black;}
+.kick:hover {background-color: green;}
+
+.spitOnHim {background-color: lightblue;
+        color: black;}
+.spitOnHim:hover {background-color: blue;}
+
+.punch {background-color: yellow;
+        color: black;}
+.punch:hover {background-color: orange;}
+
+.adlani {background-color: #4CAF50;} /* Green */
+.adlani:hover {background-color: #46a049;}
+
+.noah {background-color: #2196F3;} /* Blue */
+.noah:hover {background: #0b7dda;}
+
+.joey {background-color: #ff9800;} /* Orange */
+.joey:hover {background: #e68a00;}
+
+.diego {background-color: #f44336;} /* Red */
+.diego:hover {background: #da190b;}
+
+.jon {background-color: #e7e7e7; color: black;} /* Gray */
+.jon:hover {background: #ddd;}
